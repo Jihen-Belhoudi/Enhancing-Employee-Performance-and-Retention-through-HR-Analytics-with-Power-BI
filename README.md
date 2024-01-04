@@ -1,4 +1,6 @@
 # Enhancing-Employee-Performance-and-Retention-through-HR-Analytics-with-Power-BI
+![HR Analytics Dashboard](https://github.com/Jihen-Belhoudi/Enhancing-Employee-Performance-and-Retention-through-HR-Analytics-with-Power-BI/blob/main/Enhancing-Employee-Performance-and-Retention-through-HR-Analytics-with-Power-BI.PNG)
+
 ## Objective:
 The primary goal of this project is to aid organizations in enhancing employee performance and mitigating attrition by constructing an HR analytics dashboard. The dashboard facilitates informed decision-making by offering valuable insights into employee data, thereby fostering improvements in employee satisfaction and retention.
 
